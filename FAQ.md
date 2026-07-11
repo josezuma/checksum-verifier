@@ -1,7 +1,10 @@
 # FAQ
 
 ## What is checksum-verifier?
-File checksum calculator (MD5, SHA1, SHA256)
+A CLI tool for checksum verifier.
 
 ## Dependencies?
 Python stdlib only.
+
+## Author
+Jose Zuma
