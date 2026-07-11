@@ -1,7 +1,7 @@
 # FAQ
 
 ## What is checksum-verifier?
-A CLI tool for checksum verifier.
+Checksum Verifier
 
 ## Dependencies?
 Python stdlib only.
